@@ -3,27 +3,32 @@ body {
     margin-top: 50px;
 
 }
-
+h1 {
+    color: pink;
+    text-align: center;
+    font-size: 300%;
+}
 #BoringMom {
     color: pink;
     text-align: left;
     Padding: 10px;
-    font-size: xx-large;
+    font-size: large;
     color: pink;
     Padding-left: 25px;
     margin: auto;
 }
 
 #about {
-    text: aqua; 
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding-left: 25px;
 }
 
 nav {
-    position: fixed;
-    right: 0;
+    display: block;
+    text-align: center;
+    text-decoration-line: none;
+    text: violet;
     padding-top: 15px;
     padding-right: 15px;
     color: violet;
