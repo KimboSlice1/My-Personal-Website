@@ -8,6 +8,10 @@ h1 {
     Padding: 10px;
     font-size: xx-large;
 }
+
+h3 {
+    color: pink;
+}
 img {
     Padding-left: 25px;
     
@@ -28,7 +32,15 @@ nav {
     float: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-section#p {
+section p {
     right: 0;
     text: black;
+}
+
+footer {
+    background-color: blanchedalmond;
+}
+
+div p {
+    color: white;
 }
