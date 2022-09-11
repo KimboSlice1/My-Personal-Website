@@ -17,7 +17,7 @@ h1 {
     color: pink;
     text-align: center;
     Padding: 25px;
-    font-size: large;
+    font-size: x-large;
     color: pink;
     margin: auto;
 }
@@ -33,6 +33,7 @@ nav {
     text-align: center;
     text-decoration-line: none;
     text: violet;
+    
     padding-top: 15px;
     padding-right: 15px;
     color: violet;
@@ -53,4 +54,28 @@ section.p {
     text-align: center;
         
 }
+<style>
+a:link {
+  color: rgb(0, 96, 128);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(179, 0, 255);
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: rgb(0, 85, 255);
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
 
