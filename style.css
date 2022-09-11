@@ -1,11 +1,23 @@
 body {
-    background: blue;
+    background: white;
 }
 
 h1 {
     color: pink;
+    text-align: left;
 }
 
 p {
     text: aqua; 
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav {
+    position: fixed;
+    right: 0;
+    padding-top: 60px;
+    color: violet;
+    float: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
