@@ -9,14 +9,10 @@ h1 {
     font-size: 300%;
 }
 
-#rainbow {
-    
-}
-
 #BoringMom {
     color: pink;
     text-align: center;
-    Padding: 25px;
+    Padding-bottom: 25px;
     font-size: x-large;
     color: pink;
     margin: auto;
@@ -33,12 +29,12 @@ nav {
     text-align: center;
     text-decoration-line: none;
     text: violet;
-    
     padding-top: 15px;
     padding-right: 15px;
     color: violet;
     float: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 section.p {
     right: 0;
@@ -49,10 +45,10 @@ section.p {
 #contact {
     background-color: rgb(245, 161, 217);
     color: black;
-    padding: 0;
     border: 3px solid rgb(173, 150, 168);
     text-align: center;
-        
+    padding-top: 0px;
+    
 }
 <style>
 a:link {
